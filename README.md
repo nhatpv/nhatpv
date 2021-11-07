@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nhatpv
+- 👀 I’m interested in Coding, Blogging, Learning Japanese
+- 🌱 I’m Software Engineer at FPT Software
+- 📫 How to Enjoy your code life!
